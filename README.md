@@ -23,4 +23,5 @@
 - ![screencapture-file-F-road-to-sdet-all-class-software-engineering-book-pdf-assignment-api-testing-with-postman-report-with-newman-Newman-test-Reports-report-html-2022-06-26-22_41_55](https://user-images.githubusercontent.com/50634074/175824814-c5d2eeca-7992-43f5-849c-dc73614ed816.png)
 
 - ![screencapture-file-F-road-to-sdet-all-class-software-engineering-book-pdf-assignment-api-testing-with-postman-report-with-newman-Newman-test-Reports-report-html-2022-06-26-22_42_08](https://user-images.githubusercontent.com/50634074/175824811-ea608b75-f96a-4550-9ee4-bf5c71d88a33.png)
-
+- Terminal view 
+- ![newman report 2](https://user-images.githubusercontent.com/50634074/175825394-bc3d3c61-fe9c-4c2b-8d12-a9a0463a098e.JPG)
